@@ -1,4 +1,4 @@
-# MINERVA
+# ATHENA
 Capsule Networks (CapsNets) for OceanS (Conv1D-layers)
 
 
