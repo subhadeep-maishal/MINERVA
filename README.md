@@ -1,5 +1,5 @@
 # ATHENA
-Capsule Networks (CapsNets) for OceanS (Conv1D-layers)
+Capsule Networks for OceanS (Conv1D-layers)
 
 
 
